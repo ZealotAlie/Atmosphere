@@ -1,2 +1,2 @@
 # Atmosphere
-Simple projet for understand the atmosphere scattering
+Simple project for understand the atmosphere scattering
